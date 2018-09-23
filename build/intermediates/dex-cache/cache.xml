@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c74dab42788b458960618238f338d324b6f0656">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.2.1_4f84b4db7335a455e4ff05b44bded505b102836a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\wear\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_2cb32e284343106621bbb6f649bff2e5afa0ae78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\wear\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_e09f3ae08856ca6b7f5bfb485b2dda5e11079778\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_6c27ba68e6691a2ec37135c1d3520b215ec8f522\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\exploded-aar\com.spotify.sdk\spotify-android-auth-1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e7c2daeb5c4e8a4b0874bd62367979bb1c0c82a">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\exploded-aar-com.spotify.sdk-spotify-android-auth-1.0.0_3e2ca39873d5d6c4394adae63dfa86fa9a9e3cff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_710a45da5622a64479ea08e108fc9fcf4e00859a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_b5aa302d18cfa14c87252cea1d51d6066c85b38b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_69823068741d8125f04dd361548be05d4885fd8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_b033157c900664b9bc43ecd3694347d704cc8640\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.2.1_e166812e837b90a80dd262db5247c0c25a9df447\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38df0a8b522f236baa458901002584fb1635d093">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_95374c23dc3e8247ec84d0b9a1935fe570c550d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\wear\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44bfbdec7008552393a118a31a3e13f9a018357f">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\wear\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_460ca581c59be99f3a3a569ae451696b917e7e47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c74dab42788b458960618238f338d324b6f0656">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.2.1_1f2fc6f8cc3b70e357de4575ef01f09d419cf381\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\exploded-aar\com.spotify.sdk\spotify-player\24-noconnect-2.20b\jars\libs\jnihelpers-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b54aab38b4f87a6682331b511fec0db6b952bb7e">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\jnihelpers-1.0_01a8526363a84873e78cd6156563569a855bcb36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.2.1_7781cff28fb8201456ae1f49cc15e39c11d6f16c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\wear\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_355d2e020fa590f4e28400caa2e36bd74e4295be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.2.1_7c6334df3557c4cdebd199865babc2f4154e9313\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_f3281634da45d0e6b855b5a2f305348febed7224\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.2.1_8fab85f346e0c6e00efaa3e2c60e684d96c2cccc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\wear\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_6801edd1a8069df289e4a79a93839f4127f480ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_c8c2c10bb35dc37c5e1b751974662c21b5200cdd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\wear\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_b31b2e5b4ac8457708e08d879f562fcd59e9b90a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\wear\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_d2c0e4b1653b68fbb7ee4603cae390ecd6a82489\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\wear\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="564c71b5d08c998d3d132e65708724b83529a57f">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\wear\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a4a3f1645b8081763f518fe7fca24da8f845167d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.2.1_738488f095a3f8f8682d1268be1352c462131cda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_e896d0d4d222fc0a995895ab516609813a5d7c58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\wear\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_aa25db610dd966584e8b0152ff6e7b18e8916cd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\wear\build\intermediates\exploded-aar\com.google.android.support\wearable\2.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="82ee2b306014da82147b5b2f1881bf1260c1e2a9">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.support-wearable-2.0.1_b4aca4213221a35fbcbde0720980d1a36ca19942\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_56d8e22201901fb95dd9999612d80e1dd9bb15f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_b912c7a9930d2da35f1591922f85d509f5abd284\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\wear\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.2.0_73030f93236794b508d2ad43dfb97da1575a2cd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f11e7465127cfc6f3ecc30f29a54e2c231babf30">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3bf9c2bc28ad5ead2bf66fe486a04592b164ea6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.2.1_eaa82e4d642a4e8ff4881397c1842729732be2f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\wear\build\intermediates\exploded-aar\com.android.support\percent\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc03ddac6017ba6366944c3eb01efc8751a00a6b">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-percent-25.2.0_5b726d047bd032fb1bef36f59b9bdba75f1b72ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\exploded-aar\com.spotify.sdk\spotify-player\24-noconnect-2.20b\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="55220cc71bd23fff8fc339a67f55be3cfd11cdec">
+        <dex dex="C:\Users\Computing\Desktop\SpotifyController\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.spotify.sdk-spotify-player-24-noconnect-2.20b_7d717f1feb630ed084858fb74e1c24e5cac18efc\classes.dex" />
+    </item>
+
+</items>

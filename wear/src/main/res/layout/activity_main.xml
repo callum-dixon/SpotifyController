@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.wearable.view.BoxInsetLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/album"
+    android:id="@+id/container"
+    tools:context="dixon.callum.spotifycontroller.MainActivity"
+    tools:deviceIds="wear">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp"
+        app:layout_box="all">
+
+    <TextView
+        android:id="@+id/clock"
+        app:layout_box="all"
+        android:layout_gravity="bottom|start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white" />
+
+        <ImageButton
+            android:src="@android:drawable/ic_btn_speak_now"
+            android:id="@+id/btnSpeak"
+            android:elevation="0dp"
+            android:cropToPadding="false"
+            android:onClick="btnSpeak"
+            android:layout_gravity="center|bottom"
+            android:background="@android:color/transparent"
+            android:layout_height="50dp"
+            android:layout_width="50dp" />
+
+        <ImageButton
+            android:src="@android:drawable/ic_media_next"
+            android:id="@+id/imageButton3"
+            android:elevation="0dp"
+            android:cropToPadding="false"
+            android:onClick="pauseButton"
+            android:layout_gravity="center|end"
+            android:background="@android:color/transparent"
+            android:layout_height="50dp"
+            android:layout_width="wrap_content" />
+
+        <ImageButton
+        android:src="@android:drawable/ic_media_previous"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:id="@+id/imageButton2"
+        android:elevation="0dp"
+        android:cropToPadding="false"
+        android:onClick="pauseButton"
+        android:layout_gravity="center|start"
+        android:background="@android:color/transparent" />
+
+        <ImageButton
+            android:src="@android:drawable/ic_media_play"
+            android:id="@+id/imageButton"
+            android:onClick="playButton"
+            android:elevation="0dp"
+            android:background="@android:color/transparent"
+            android:layout_gravity="center"
+            android:layout_width="49dp"
+            android:layout_height="48dp"
+            android:scaleType="fitXY" />
+
+    </FrameLayout>
+
+</android.support.wearable.view.BoxInsetLayout>

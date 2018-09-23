@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    tools:context="dixon.callum.spotifycontroller.MainActivity"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <Button
+        android:text="Pause / Resume"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/onClickPlay"
+        android:onClick="onClickPlay"
+        android:layout_marginBottom="31dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@android:drawable/ic_media_previous"
+        android:layout_above="@+id/onClickPlay"
+        android:layout_toStartOf="@+id/onClickPlay"
+        android:id="@+id/imageButton"
+        android:onClick="onPreviousButtonClicked"
+        android:visibility="visible"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@android:drawable/ic_media_next"
+        android:layout_above="@+id/onClickPlay"
+        android:layout_toEndOf="@+id/onClickPlay"
+        android:id="@+id/imageButton2"
+        android:onClick="onNextButtonClicked" />
+
+    <ImageButton
+        android:src="@drawable/play"
+        android:layout_above="@+id/onClickPlay"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/imageButton3"
+        android:onClick="onPlayButtonClicked"
+        android:scaleType="fitXY"
+        android:elevation="0dp"
+        android:background="@null"
+        android:layout_width="75dp"
+        android:layout_height="75dp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/album"
+        android:id="@+id/imageView"
+        android:scaleType="fitCenter"
+        android:layout_marginBottom="106dp"
+        android:layout_above="@+id/imageButton3"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:text="Nothing Playing"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="36dp"
+        android:id="@+id/metaData"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button"
+        android:fontFamily="sans-serif"
+        android:textAlignment="textStart"
+        android:textAllCaps="false"
+        android:layout_above="@+id/imageButton3"
+        android:layout_toStartOf="@+id/imageButton3"
+        android:layout_marginEnd="16dp" />
+    />
+
+</RelativeLayout>
